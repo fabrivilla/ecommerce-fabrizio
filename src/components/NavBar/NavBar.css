@@ -1,0 +1,16 @@
+ul{
+   width: 100%;
+   height: auto;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   background-color: grey;
+        
+}
+li{
+  text-decoration: none;
+  list-style: none;
+  color: whitesmoke
+}
+  
+  
